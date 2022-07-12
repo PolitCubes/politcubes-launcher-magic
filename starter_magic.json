@@ -1,7 +1,7 @@
 {
   "config": {
-    "onJreBitsNotMatchOsBits": "os",
-    "onJreDetailsError": true
+    "JRE_BITS_NOT_MATCH_OS_BITS": "os",
+    "ON_JRE_DETAILS_ERROR": true
   },
   "requirements": {
     "JVM_VERSION": "17",
