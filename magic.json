@@ -1,5 +1,7 @@
 {
   "common": {
+    "#createAccount": "https://hasteb.in",
+    "#forgotPass":"https://hasteb.in",
     "#discord": "https://hasteb.in",
     "#site": "https://politcubes.ru",
     "#vk": "https://github.com/PolitCubes/wiki"
