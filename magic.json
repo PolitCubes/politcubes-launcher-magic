@@ -6,13 +6,19 @@
     "#site": "https://politcubes.ru",
     "#vk": "https://github.com/PolitCubes/wiki"
   },
-  "1.18.2-fabric": {
+  "PolitCubes": {
     "#main": "https://telegra.ph/Poisk-po-statyam-v-telegraph-08-30",
     "#rules": "https://github.com/PolitCubes/wiki",
     "#map": "https://minecraft.rtgame.co.uk/map/build",
     "#gethelp": "https://politcubes.ru"
   },
-  "1.7.10-forge": {
+  "Modern": {
+    "#main": "https://lichess.org/",
+    "#rules": "https://youtube.com/",
+    "#map": "https://minecraft.rtgame.co.uk/map/build",
+    "#gethelp": "https://politcubes.ru"
+  }
+  "Duels": {
     "#main": "https://lichess.org/",
     "#rules": "https://youtube.com/",
     "#map": "https://minecraft.rtgame.co.uk/map/build",
