@@ -10,18 +10,18 @@
     "#main": "https://wiki.politcubes.com/blog",
     "#rules": "https://github.com/PolitCubes/wiki",
     "#map": "https://minecraft.rtgame.co.uk/map/build",
-    "#gethelp": "https://politcubes.ru"
+    "#gethelp": "https://politcubes.com"
   },
   "BabkaCubes": {
     "#main": "https://lichess.org/",
     "#rules": "https://youtube.com/",
     "#map": "https://minecraft.rtgame.co.uk/map/build",
-    "#gethelp": "https://politcubes.ru"
+    "#gethelp": "https://politcubes.com"
   },
   "Duels": {
     "#main": "https://lichess.org/",
     "#rules": "https://youtube.com/",
     "#map": "https://minecraft.rtgame.co.uk/map/build",
-    "#gethelp": "https://politcubes.ru"
+    "#gethelp": "https://politcubes.com"
   }
 }
