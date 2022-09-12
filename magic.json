@@ -1,22 +1,22 @@
 {
   "common": {
-    "#createAccount": "https://hasteb.in",
-    "#forgotPass":"https://hasteb.in",
-    "#discord": "https://hasteb.in",
-    "#site": "https://politcubes.ru",
+    "#createAccount": "https://politcubes.com/actions",
+    "#forgotPass":"https://politcubes.com/actions",
+    "#discord": "https://discord.gg/upFFUFMrWC",
+    "#site": "https://politcubes.com",
     "#vk": "https://github.com/PolitCubes/wiki"
   },
   "PolitCubes": {
     "#main": "https://wiki.politcubes.com/blog",
     "#rules": "https://github.com/PolitCubes/wiki",
-    "#map": "https://minecraft.rtgame.co.uk/map/build",
-    "#gethelp": "https://politcubes.com"
+    "#map": "https://map.politcubes.com",
+    "#gethelp": "https://vk.com/politcubes"
   },
   "BabkaCubes": {
-    "#main": "https://lichess.org/",
-    "#rules": "https://youtube.com/",
-    "#map": "https://minecraft.rtgame.co.uk/map/build",
-    "#gethelp": "https://politcubes.com"
+    "#main": "https://youtu.be/dQw4w9WgXcQ",
+    "#rules": "https://youtu.be/dQw4w9WgXcQ",
+    "#map": "https://map.politcubes.com",
+    "#gethelp": "https://vk.com/babkacubes"
   },
   "Duels": {
     "#main": "https://lichess.org/",
