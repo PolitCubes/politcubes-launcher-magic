@@ -47,7 +47,7 @@
   ],
   "launcher": [
     {
-      "url": "https://github.com/PolitCubes/politcubes-launcher-magic/raw/main/launcher.jar"
+      "url": "https://github.com/PolitCubes/politcubes-launcher-magic/raw/main/politcubes.jar"
     }
   ],
   "config": {
