@@ -4,18 +4,18 @@
     "#forgotPass":"https://politcubes.com/actions",
     "#discord": "https://discord.gg/upFFUFMrWC",
     "#site": "https://politcubes.com",
-    "#vk": "https://github.com/PolitCubes/wiki"
+    "#vk": "https://vk.com/politcubes"
   },
   "PolitCubes": {
     "#main": "https://wiki.politcubes.com/blog",
-    "#rules": "https://github.com/PolitCubes/wiki",
+    "#rules": "https://wiki.politcubes.com/general/rules",
     "#map": "https://map.politcubes.com",
-    "#gethelp": "https://politcubes.com"
+    "#gethelp": "https://vk.com/politcubes"
   },
   "BabkaCubes": {
     "#main": "https://youtu.be/dQw4w9WgXcQ",
     "#rules": "https://youtu.be/dQw4w9WgXcQ",
-    "#map": "https://map.politcubes.com",
+    "#map": "https://youtu.be/dQw4w9WgXcQ",
     "#gethelp": "https://vk.com/babkacubes"
   },
   "Duels": {
